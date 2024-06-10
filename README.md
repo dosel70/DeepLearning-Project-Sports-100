@@ -4,7 +4,7 @@
 <img src='https://github.com/dosel70/DeepLearning_Project/assets/143694489/4086bf36-ea31-48e9-83d9-4985b1b5d63b' width="800">
 
 📌 데이터셋 주제 
-- 100가지 종류의 스포츠 이미지를 EfficentNet 사전훈련 모델을 사용하여, 예측합니다.
+- 100가지 종류의 스포츠 이미지를 EfficentNet & ResNet 사전훈련 모델을 사용하여, 예측합니다.
    
 ### ✏️ 100가지 스포츠 이미지 분류 프로젝트 작업 목차  
   1. [데이터 불러오기 및 전처리](#전처리-작업)
